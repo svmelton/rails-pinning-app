@@ -12,6 +12,7 @@ Rails.application.routes.draw do
   get '/library' => 'pins#index'
 
 
+
     
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
